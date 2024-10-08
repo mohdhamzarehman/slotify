@@ -1,1 +1,1 @@
-An AI based Calendly alternative
+An AI based Calendly alternative built using
